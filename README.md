@@ -4,7 +4,7 @@ Hi there 👋, I am Rony Maruga.
 - https://usalamaguardsmartsecurity.onrender.com/
 - https://usalamaguard-jhub.vercel.app/  
 
-🌱 I’m a JKUAT Fourth year Student. I’m looking to collaborate on ML and IoT projects.   
+🌱 I’m a JKUAT Fourth year Computer Technology Student. I’m looking to collaborate on ML and IoT projects.   
 📫 How to reach me: ronymaruga@outlook.com.   
 
 ⚡**Fun Fact:**
