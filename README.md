@@ -1,6 +1,5 @@
 Hi there 👋, I am Rony Maruga.  
-
-🌱 I’m a JKUAT Fourth year Computer Technology Student. I’m looking to collaborate on ML and IoT projects.   
+   
 📫 How to reach me: ronymaruga@outlook.com.   
 
 ⚡**Fun Fact:**
